@@ -56,7 +56,7 @@ body {
     display: -o-flex;
     display: flex;
 
-    list-style: underline;
+    list-style: none;
 }
 
 .header__nav-link {
